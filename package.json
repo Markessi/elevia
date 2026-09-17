@@ -1,0 +1,17 @@
+{
+  "name": "elevia-web",
+  "version": "1.0.0",
+  "description": "Sitio web oficial de Elevia Shop",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "landing-page",
+    "elevia",
+    "shop",
+    "infoproduct"
+  ],
+  "author": "",
+  "license": "ISC"
+}
